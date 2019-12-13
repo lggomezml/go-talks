@@ -1,4 +1,4 @@
-# Meetup MELI 2019/18/12: Trace - Ejemplo
+# Meetup MELI 2019/12/18: Trace - Ejemplo
 
 En este directorio hay 2 proyectos (requieren go modules, se recomienda 1.13+):
 
